@@ -15,7 +15,7 @@ df_1=pd.read_csv("first_telc.csv")
 
 q = ""
 
-genai.configure(api_key="AIzaSyCWm7-a3h1oIsI7bOwEAAsqKIVfEHWrvms")
+genai.configure(api_key="APIKEY")
 # proceed here for api key  https://makersuite.google.com/app/apikey
 
 generation_config = {
